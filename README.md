@@ -1,3 +1,7 @@
+# Trivia Game
+The Trivia exercise was a fun task to practice React and Redux, as well as implementing fetches to an API to collect the questions and answeres.
+----------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
